@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+p{
+    background-color: aqua;
+    margin: 20px;
+    padding: 10px;
+}
+
+img{
+    width: 200px;
+    height: 300px;
+}
